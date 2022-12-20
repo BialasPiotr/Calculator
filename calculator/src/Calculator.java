@@ -28,7 +28,7 @@ public class Calculator {
                 result = operand1 / operand2;
                 break;
         }
-        
+      
         System.out.println("The result is: " + result);
     }
 }
